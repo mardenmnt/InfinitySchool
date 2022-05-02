@@ -19,6 +19,3 @@ while ano_inicial < ano_atual:
     salario = salario + (salario * aumento)
     ano_inicial += 1
     print(f'No ano de {ano_inicial} o salário foi: {salario:.2f}')
-
-
-
