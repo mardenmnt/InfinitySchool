@@ -9,4 +9,4 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 2. Linguagem Python
 - [x] Funções
 - [x] Listas, Tuplas, Dicionários
-- [] Orientação a Objetos
+- [ ] Orientação a Objetos
