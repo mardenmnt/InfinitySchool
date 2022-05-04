@@ -4,18 +4,18 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 ## Grade do curso 
 
 1. Lógica de Programação em Python
-
 - [x] Conceitos e Princípios de programação
-- [x] 1. Estruturas Condicionais
-  1. If
-  2. Elif
-  3. Else
-- [x] Estrutura de Repetição
-  1. While
-  2. For
 
+2. Estruturas Condicionais
+  - [x] If
+  - [x] Elif
+  - [x] Else
 
-2. Linguagem Python
+3. Estrutura de Repetição
+  - [x] While
+  - [x] For
+
+4. Linguagem Python
 
 - [x] Funções
 - [x] Listas, Tuplas, Dicionários
