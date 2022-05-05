@@ -12,7 +12,7 @@ Qual a média de veículos nas cinco cidades juntas;
 Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
 """
 
-cont = 0
+cont = 000
 maior_acidente = 0
 menor_acidente = 999999
 cod_maior_acidente = 0
