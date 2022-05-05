@@ -9,7 +9,7 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
   - [x] If
   - [x] Elif
   - [x] Else
-   1. **Estrutura de Repetição**
+   2. **Estrutura de Repetição**
   - [x] While
   - [x] For
 
