@@ -14,4 +14,4 @@ excesso = (50 - peso) * -1
 
 multa = 4 * excesso
 
-print(f'A sua multa pelo excesso de acordo com o limite de 50 quilos foi de {multa} reais')
+print(f'\nA sua multa pelo excesso de acordo com o limite de 50 quilos foi de {multa} reais')
