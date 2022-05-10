@@ -32,6 +32,3 @@ else:
 1) Ter no mínimo 65 anos de idade.
 2) Ter trabalhado no mínimo 30 anos.
 3) Ter no mínimo 60 anos e ter trabalhado no mínimo 25 anos.''')
-
-
-
