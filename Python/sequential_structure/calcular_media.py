@@ -9,6 +9,7 @@ nota4 = float(input('4ª nota: '))
 
 soma = nota1 + nota2 + nota3 + nota4
 
+# calculando média
 media = soma / 4
 
 print(f'A média das notas foi: {media:.2f}')
