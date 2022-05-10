@@ -9,5 +9,5 @@ area = lado * lado
 
 dobro_area = area * 2
 
-print(f'A área do quadrado é de {area}')
-print(f'O dobro da área é {dobro_area}')
+print(f'\nA área do quadrado é de {area}')
+print(f'\nO dobro da área é {dobro_area}')
