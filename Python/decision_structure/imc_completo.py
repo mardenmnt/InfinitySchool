@@ -17,14 +17,14 @@ imc = peso / (altura ** 2)
 
 # definindo o tipo de IMC
 if imc < 18.5:
-    print('Seu IMC é:', imc, 'procure um médico você está subnutrido')
+    print('\nSeu IMC é:', imc, 'procure um médico você está subnutrido')
 elif 18.5 <= imc < 24.9:
-    print('Seu IMC é:', imc, 'e está normal')
+    print('\nSeu IMC é:', imc, 'e está normal')
 elif 25 <= imc < 29.9:
-    print('Seu IMC é:', imc, 'e está com sobrepeso')
+    print('\nSeu IMC é:', imc, 'e está com sobrepeso')
 elif 30 <= imc < 34.9:
-    print('Seu IMC é:', imc, 'cuidado você está com obesidade grau I')
+    print('\nSeu IMC é:', imc, 'cuidado você está com obesidade grau I')
 elif 35 <= imc < 39.9:
-    print('Seu IMC é:', imc, 'cuidado você está com obesidade grau II')
+    print('\nSeu IMC é:', imc, 'cuidado você está com obesidade grau II')
 elif imc >= 40:
-    print('Seu IMC é:', imc, 'procure um médico você está com obesidade grau III')
+    print('\nSeu IMC é:', imc, 'procure um médico você está com obesidade grau III')
