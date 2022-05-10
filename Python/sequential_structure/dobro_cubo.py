@@ -12,4 +12,3 @@ real = float(input('Informe um número real: ').replace(',', '.'))
 print(f'O produto do dobro do primeiro com metade do segundo é: {(int1 * 2) * (int2 / 2)}')
 print('A soma do triplo do primeiro com o terceiro é: {}'.format((3 * int1) + real))
 print('O terceiro elevado ao cubo é: {:.2f}'.format(real ** 3))
-
