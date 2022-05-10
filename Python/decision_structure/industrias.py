@@ -9,12 +9,12 @@ se o índice atingir 0,5 todos os grupos devem ser notificados a paralisarem as 
 indice = float(input('Informe o índice de poluição: ').replace(',', '.'))
 
 if 0.05 < indice <= 0.25:
-    print('Índice de poluição normal')
+    print('\nÍndice de poluição normal')
 elif 0.25 < indice <= 0.3:
-    print('As indústrias do 1º grupo são intimadas a suspenderem suas atividades')
+    print('\nAs indústrias do 1º grupo são intimadas a suspenderem suas atividades')
 elif 0.3 < indice <= 0.4:
-    print('As indústrias do 1º e 2º grupo são intimadas a suspenderem suas atividades')
+    print('\nAs indústrias do 1º e 2º grupo são intimadas a suspenderem suas atividades')
 elif 0.4 < indice <= 0.5:
-    print('Todos os grupos devem ser notificados a paralisarem suas atividades')
+    print('\nTodos os grupos devem ser notificados a paralisarem suas atividades')
 else:
-    print('Índice incorreto')
+    print('\nÍndice incorreto')
