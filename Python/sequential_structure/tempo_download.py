@@ -19,4 +19,4 @@ tempo_segundos = down_mb / vel
 # conversão de segundos para minutos
 tempo_minutos = tempo_segundos / 60
 
-print(f'Tempo aproximado para download: {tempo_minutos:.2f} minuto(s)')
+print(f'\nTempo aproximado para download: {tempo_minutos:.2f} minuto(s)')
