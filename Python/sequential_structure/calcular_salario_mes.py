@@ -6,6 +6,7 @@ Calcule e mostre o total do seu salário no referido mês
 valor_hora = float(input('Informe quanto ganha por hora: '))
 horas = float(input('Informe as horas trabalhadas nesse mês: '))
 
+# cálculo do salário
 salario = valor_hora * horas
 
 print(f'O salário desse mês corresponde a R$ {salario}')
