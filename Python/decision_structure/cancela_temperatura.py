@@ -16,6 +16,6 @@ else:
 
 # retornando o resultado obtido pela cancela
 if cancela:  # if cancela == True -> if cancela  |  if cancela == False -> if not cancela
-    print('Cancela liberada! Seja bem-vindo(a)')
+    print('Cancela liberada! Seja bem-vindo(a)!')
 else:
     print('Cancela bloqueada!\nSua temperatura está alta, procure um médico')
