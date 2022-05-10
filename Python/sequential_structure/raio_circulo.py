@@ -7,6 +7,7 @@ from cmath import pi
 
 raio = float(input('Informe o raio: '))
 
+# calculando área
 area = pi * (raio**2)
 
 print(f'A área do círculo com raio {raio} vale: {area:.2f}')
