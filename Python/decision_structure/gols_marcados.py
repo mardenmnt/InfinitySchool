@@ -12,6 +12,6 @@ gols2 = int(input(f'Informe os gols do time {time2}: '))
 if gols1 > gols2:
     print(f'\nO time {time1} venceu!')
 elif gols2 > gols1:
-    print(f'\nO time', time2, 'venceu!\n')
+    print(f'\nO time', time2, 'venceu!')
 else:
-    print(time1, 'empatou com', time2)
+    print(f'\n{time1} empatou com {time2}')
