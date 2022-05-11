@@ -10,9 +10,7 @@ class Quadrado:
         self.lado = lado
     
     def mudar_lado(self):
-        troca = input(f'\nDeseja mudar o tamanho do lado atual? [s/n]\n')
-
-        troca = troca[0].lower()
+        troca = input(f'\nDeseja mudar o tamanho do lado atual? [s/n]\n').strip()[0].lower()
 
         if troca == "s":
             novo_lado = int(input("\n> Novo lado: "))
@@ -24,9 +22,7 @@ class Quadrado:
         print(f'\nO lado atual é {self.lado}')
 
     def calcular_area(self):
-        pergunta = input(f'\nDeseja calcular a área? [s/n]\n')
-
-        pergunta = pergunta[0].lower()
+        pergunta = input(f'\nDeseja calcular a área? [s/n]\n').strip()[0].lower()
 
         if pergunta == "s":
             print(f'\nÁrea atual do quadrado: {self.lado * self.lado}') 
@@ -41,8 +37,7 @@ def main():
         quadrado.mudar_lado()
         quadrado.calcular_area()
 
-        continuar = input('\nContinuar? [s/n]\n')
-        continuar = continuar[0].lower()
+        continuar = input('\nContinuar? [s/n]\n').strip()[0].lower()
         if continuar == "n":
             break
 
