@@ -19,7 +19,7 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 - [x] Listas, Tuplas, Dicionários
 - [x] Orientação a Objetos
 - [x] Encapsulamento
-- [ ] Associação
+- [x] Associação
 - [ ] Herança
 - [ ] Polimorfismo
 - [ ] Banco de dados
