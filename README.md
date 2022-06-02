@@ -20,7 +20,7 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 - [x] Orientação a Objetos
 - [x] Encapsulamento
 - [x] Associação
-- [ ] Herança
+- [x] Herança
 - [ ] Polimorfismo
 - [ ] Banco de dados
 - [ ] Manipulação e dados
