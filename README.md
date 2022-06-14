@@ -5,24 +5,25 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 
 1. **Lógica de Programação em Python**
 - [x] Conceitos e Princípios de programação
+
    1. **Estruturas Condicionais**
   - [x] If
   - [x] Elif
   - [x] Else
+
    2. **Estrutura de Repetição**
   - [x] While
   - [x] For
 
 2. **Linguagem Python**
-
 - [x] Funções
 - [x] Listas, Tuplas, Dicionários
 - [x] Orientação a Objetos
 - [x] Encapsulamento
 - [x] Associação
 - [x] Herança
-- [ ] Polimorfismo
-- [ ] Banco de dados
+- [x] Polimorfismo
+- [x] Banco de dados
 - [ ] Manipulação e dados
 - [ ] Views
 - [ ] Python x Banco
