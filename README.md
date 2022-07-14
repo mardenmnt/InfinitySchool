@@ -1,5 +1,5 @@
 # Infinity School
-Trabalhos realizados durante curso de Programação Full Stack na Infinity School
+Trabalhos realizados durante curso de Data Science na Infinity School
 
 ## Grade do curso 
 
@@ -24,8 +24,10 @@ Trabalhos realizados durante curso de Programação Full Stack na Infinity Schoo
 - [x] Herança
 - [x] Polimorfismo
 - [x] Banco de dados
-- [ ] Manipulação e dados
-- [ ] Views
-- [ ] Python x Banco
-- [ ] Python x MVC
-- [ ] MVC
+- [x] Manipulação e dados
+- [x] Views
+- [x] Python x Banco
+- [x] Python x MVC
+- [x] MVC
+
+3. **Data Science**
