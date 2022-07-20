@@ -31,3 +31,4 @@ Trabalhos realizados durante curso de Data Science na Infinity School
 - [x] MVC
 
 3. **Data Science**
+- [x] Introdução ao Pandas: Indexação, seleção e atribuição                                                                                 
