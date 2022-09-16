@@ -8,6 +8,7 @@ asteroides registrados
 nomes = []
 dicionario = {}
 soma_distancias = []
+media_individual = []
 dist = []
 soma = []
 
@@ -32,5 +33,21 @@ while True:
     else:
         break
 
-print(f'\nSoma distância cada asteroide / QTD asteroides: {sum(soma_distancias)/len(nomes)}')
-print(f'Soma distância total / QTD distâncias: {sum(soma_distancias)/len(dist)}')
+for soma in soma_distancias:
+    media_individual.append(int(soma) / 5)
+
+print(f"\nQuantidade de asteróides detectados: {len(nomes)}\n")
+print("*"*30)
+print("  Distância média indivisual")
+print("*"*30)
+
+for i in range(len(nomes)):
+    print(f"{nomes[i]} teve distância média: {media_individual[i]}")
+
+print("\n")
+print("*"*30)
+print("     Distância média geral")
+print("*"*30)
+print(f"Soma total das distâncias: {sum(soma_distancias)}")
+print(f'Distância média de todos asteróides: {sum(soma_distancias)/len(nomes)}')
+# print(f'Soma distância total / QTD distâncias: {sum(soma_distancias)/len(dist)}')
